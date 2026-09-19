@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Mohammad Ali 👋
 
-<!--
-**mbusugumaali-design/mbusugumaali-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about software engineering,
+technology, logistics, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building with:
+
+- 🐍 Python
+- 🎯 Dart
+- 📱 Flutter
+- 🔥 Firebase
+- 🧠 Data Structures & Algorithms
+- ☁️ Cloud & Backend Development
+
+## 🚀 Current Project
+
+### Ngetra Logistics
+
+I'm building Ngetra Logistics, a technology-driven logistics platform
+designed to improve package delivery, tracking, and logistics operations.
+
+## 🎯 Goals
+
+- Become a strong Software Engineer
+- Build real-world technology products
+- Learn AI and cloud technologies
+- Contribute to meaningful projects
+- Prepare for software engineering internships
+
+## 📚 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Flutter
+- Git & GitHub
+- Software Engineering
+
+---
+
+⭐ Thanks for visiting my profile!
